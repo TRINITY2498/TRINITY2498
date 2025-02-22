@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TRINITY2498
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java,python,C++,C,Jscript.
+- 🌱 I’m currently learning Java,python,C++,C,Jscript,Web-development.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me Kaustubhk033@gmail.com
 - 😄 Pronouns: He/Him.
