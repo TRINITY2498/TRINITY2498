@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me Kaustubhk033@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: i am a learner.
+- ⚡ Fun fact: i am a Bookworm.
 
 <!---
 TRINITY2498/TRINITY2498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
